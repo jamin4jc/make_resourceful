@@ -1,4 +1,8 @@
 = make_resourceful
+===== Fork of make_resourceful gem
+
+Note, this is a fork or the make_resourceful gem.  It is intended to support Rails 2 projects. 
+
 ===== Take back control of your Controllers. Make them awesome. Make them sleek. Make them resourceful.
 
 REST is a fine pattern for designing controllers,
